@@ -1,0 +1,7 @@
+{
+  "name": "Weather Visualizer",
+  "description": "Weather visualizer with 3D miniature horizontal cluster landmarks and buildings generated via Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
